@@ -1,0 +1,14 @@
+Nama Pasien	umur	gender	diagnosa sakit
+anna	23	P	tidak
+aldo	23	L	ya
+anto	24	L	ya
+budi	35	L	ya
+adi	35	L	tidak
+delima	55	P	tidak
+dodi	32	L	tidak
+rama	21	P	tidak
+santi	19	P	ya
+mery	23	P	tidak
+yanti	35	P	ya
+parto	44	L	tidak
+dea	27	P	tidak
